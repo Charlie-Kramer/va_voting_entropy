@@ -5,4 +5,4 @@ measuring polarization in voting patterns via entropy
 
 Uses MIT Election Lab Data: https://electionlab.mit.edu/data
 
-[link to viz] (https://github.com/Charlie-Kramer/va_voting_entropy/blob/master/index.html)
+See the visualization [here:](https://charlie-kramer.github.io/arl_re_map/)
