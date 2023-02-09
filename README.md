@@ -4,6 +4,6 @@ I used data from the MIT Election Lab to measure political polarization in Virgi
 
 For each county, year and race, I measured political polarization via entropy, as
 
-$$\sum_i p_i log_2(p_i), i = 1,..N parties$$
+$$-\sum_i p_i log_2(p_i), i = 1,..N parties$$
 
 Entropy measures the dispersion or complexity of a discrete distribution. For example, in a race where one candidate receives all the votes, entropy is zero. In a two-party race where each gets an equal number of votes, entropy is 
