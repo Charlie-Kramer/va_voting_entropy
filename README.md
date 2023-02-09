@@ -1,4 +1,4 @@
-#Political Polarization in Virginia, 2016-2020
+# Political Polarization in Virginia, 2016-2020
 
 I used data from the MIT Election Lab to measure political polarization in Virginia by county. I aggregated precinct-level data to county level to account for absentee ballots, for the 2016, 2018 2020 House and Senate races. I included Independent and Libertarian party candidates but not write-ins. I joined this to data on unemployment (June of each year--not seasonally adjusted) and population (2020) by county from the Census Bureau.
 
