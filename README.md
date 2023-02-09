@@ -14,7 +14,9 @@ Entropy measures the dispersion or complexity of a discrete distribution. For ex
 
 I also measured the party leaning for each county, year, and race as the share of Democratic votes and used this to color the associated circles on the chart--see the scale on the right hand side of each chart.
 
-See the interactive visualization [here:](https://charlie-kramer.github.io/va_voting_entropy/)
+The interactive visualization with all the Bokeh bells and whistles like zooming and panning is [here:](https://charlie-kramer.github.io/va_voting_entropy/). Here's a static version:
+
+![](va_voting.png)
 
 
 
